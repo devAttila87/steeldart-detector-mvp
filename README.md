@@ -4,8 +4,7 @@ Achieving an overall 95%ish accuracy with the ongoing implementation is the goal
 Once the MVP is robust enough, almost everyone with a free camera at 1080p will be able to use my MVP as an entirely free Steeldarts auto-scoring solution.
 
 ## See yourself
-* [Detection from a 1080p Optical Camera](https://www.youtube.com/watch?v=M4H4NsJZQY4)
-* [Detection from a Google Pixel 6 Font Camera using DroidCam](https://www.youtube.com/watch?v=z5BrQy0Rp8Y)
+* [![Steeldart Detector MVP](https://img.youtube.com/vi/IEU0wJUhDk0/0.jpg)](https://www.youtube.com/watch?v=IEU0wJUhDk0)
 
 ## Detection Results from different horizontal angles but almost on the height of the Bullseye
 
